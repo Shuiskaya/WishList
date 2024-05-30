@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587112432399",
+    "project_id": "wishlist-f51a8",
+    "storage_bucket": "wishlist-f51a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587112432399:android:1a28d2f0c59a6cf3bab47a",
+        "android_client_info": {
+          "package_name": "com.example.wishlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDvYhPPtyz0USzcB1snDwItqY0-UnLbNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
